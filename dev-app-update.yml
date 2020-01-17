@@ -1,0 +1,6 @@
+owner: Dsoft
+repo: Dsoft
+provider: github
+private: true
+token: Dsoft
+vPrefixedTagName: false
